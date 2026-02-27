@@ -119,6 +119,22 @@ the specific use purposes only.
 
 
 
+### Friendly Supply Chains
+
+All logos are developed and published using free (as in both money and freedom)
+open source graphical software as follows:
+
+* **GIMP (https://gimp.org)** - for their very amazing alternate format exports
+  (e.g. `avif`, `webp`, `jpg`, `ico`, and `png`) functions.
+* **Inkscape (https://inkscape.org)** - for vector graphics maintenances and
+  exporting SVG plain vector files.
+
+They can be procured freely on your side from their official website. Therefore,
+when using our logos, it **SHOULD NOT** requires you to purchase or subscribe
+expensive image editing software just for basic editing modifications.
+
+
+
 
 ## Download Locations
 
@@ -126,6 +142,9 @@ the specific use purposes only.
 
 Our multi-colored logos are available for download at the following portals
 (refer to `Releases` section) oriented by their dimensions:
+
+
+### Official
 
 * **1200x1200** - https://github.com/ChewKeanHo/visuals-trademarks-chewkeanho-1200x1200
 * **1200x630** - https://github.com/ChewKeanHo/visuals-trademarks-chewkeanho-1200x630
