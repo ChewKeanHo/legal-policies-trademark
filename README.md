@@ -110,9 +110,11 @@ In any case, use the following as a good application guideline:
   - unused.
 * **RED**
   - commonly used for critical products and services.
+  - commonly used for super administrators (the Omegas).
   - commonly used for Chinese/Lunar New Year event.
 * **YELLOW**
   - commonly used for finance and monetary related content.
+  - commonly used for administrators (the Alphas).
   - commonly used for Chinese/Lunar New Year event.
 * **MONOCHROME (Black on White)**
   - commonly used for single color printing.
