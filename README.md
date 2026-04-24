@@ -1,12 +1,12 @@
-# Logos & Wordmark Branding Guidelines | (Holloway) Chew, Kean Ho's Legal & Licenses
+# (Holloway) Chew, Kean Ho's Trademark Policies
 
 [![banner](/.internals/trademarks/banner_1200x100.svg)](#)
 
-The `(Holloway) Chew, Kean Ho` natural and product trademark logos **MUST** be
-used in accordance with these official branding guidelines. Although the logos
-are provided under one of the free and open
-[Creative Commons Licenses](https://creativecommons.org/), **you are required to
-comply with your local trademark laws**.
+The `(Holloway) Chew, Kean Ho`'s natural and product trademarks official
+guidelines. This covers both logos and wordmark uses. Although one or more
+trademark resources (e.g. the logos) are provided under one of the free and open
+[Creative Commons Licenses](https://creativecommons.org), you **MUST** comply
+to this trademark guidelines alongside your local trademark laws.
 
 
 
@@ -15,42 +15,46 @@ comply with your local trademark laws**.
 
 [![banner](/.internals/trademarks/banner_1200x100.svg)](#)
 
-By default, use of these trademarks is rare and you are **STRICTLY PROHIBITED
-(NOT ALLOWED)** for any use of our logos and brands. All logos and wordmark are
-protected under the `CHEW KEAN HO` natural trademark who is a natural person by
-laws.
+By default, you are **STRICTLY PROHIBITED (NOT ALLOWED)** from using any of our
+trademarks like logos and brands. All logos and wordmark are protected under the
+`CHEW KEAN HO` natural trademark who is a natural person by laws.
+
+However, there are exceptions:
 
 
 
 ### Referencing Us
 
-When referencing Us (as in `(Holloway) chew, Kean Ho`), you are **ONLY PERMITTED
-TO USE** our wordmark `(Holloway) Chew, Kean Ho` **in text form**. Uses of our
-natural trademark logos **requires our written agreement**.
+When referencing to Us (as in `(Holloway) Chew, Kean Ho`), you are
+**ONLY PERMITTED TO USE** our wordmark `(Holloway) Chew, Kean Ho`
+**in TEXT form**.
+
+Uses of our natural trademark logos **requires our written agreement**.
 
 
 
 ### Referencing Our Products & Services
 
-When referencing Our products and services, you **can use both** our wordmark
-and our product trademark logos without needing a written agreement approval.
+When referencing to Our products and services, you **can use** both our wordmark
+and our product trademark logos without procuring a written agreement approval
+from us.
 
-When using our products' and services' wordmark, **DO NOT REMOVE** the natural
+When using our products' and services' trademarks, **DO NOT REMOVE** the natural
 trademark therein (as in `(Holloway) Chew, Kean Ho` from
 `(Holloway) Chew, Kean Ho's Product Name`). We practice namespace scoping across
 all domains so maintain the `[owner]'s [subject]` relationship.
 
-You are, however, **STRICTLY PROHIBITED (strong disallowed)** to modify any of
-our products & services' trademarks. Should you need a custom design, please
-reach out to us.
+You are, however, **STRICTLY PROHIBITED** to modify any of our products &
+services' trademarks. Should you need a customization, please reach out to us.
 
 
 
 ### Producing Our Products
 
 For our production partners, please refer to our written agreement and product's
-engineering specifications. Otherwise, our default conditions above remain
-effective.
+engineering specifications.
+
+Otherwise, our default conditions above remain effective.
 
 
 
@@ -76,8 +80,9 @@ open source graphical software as follows:
   exporting SVG plain vector files.
 
 They are freely available for you to download from their official website.
-Therefore, when using our logos, it **SHOULD NOT** requires you to purchase or
-subscribe expensive image editing software just for basic editing modifications.
+
+Therefore, it **SHOULD NOT** requires you to purchase or subscribe expensive
+software just for basic viewing or basic editing modifications.
 
 
 
@@ -86,12 +91,12 @@ subscribe expensive image editing software just for basic editing modifications.
 [![banner](/.internals/figures/color-demo_1200x200.svg)](#)
 
 All our logos are published in various colors formats. By default and when in
-doubt, **use the BLUE (Dark Blue)** official variant.
+doubt, **use the official BLUE (Dark Blue)**.
 
-There are no specific engineering specification for other colors but rather
-having us being adaptable to various colorful and colorless environments.
+There are no specific engineering specification colors apart from reflecting our
+adaptability to environmental changes. It is one of our core principle.
 
-In any case, use the following as a good application guideline:
+In case of needs, here are some common guidelines:
 
 * **BLUE (Dark Blue)**
   - (default) official.
@@ -157,10 +162,10 @@ Otherwise, just use them in accordance to their designed purposes:
 
 ### Flexible File Formats
 
-We prepared all of logos in the following file formats.
-You **are ONLY allowed to export into new format using our `.svg` version using
-GIMP for maintaining all design quality**. Otherwise, just use them in
-accordance to their designed purposes:
+We prepared all of logos in the following file formats. You **are ONLY allowed
+to export into new format using our `.svg` version using GIMP for maintaining
+all design quality**. Otherwise, just use them in accordance to their designed
+purposes:
 
 * `.svg` - primary adaptive vector file format.
 * `.avif` - primary rasterized rendered image.
@@ -197,6 +202,7 @@ Our logos are available for downloads at the following portals (check out their
 `Release` section):
 
 
+
 ### Official
 
 * **1200x1200** - https://github.com/ChewKeanHo/visuals-trademarks-chewkeanho-1200x1200
@@ -211,20 +217,90 @@ Our logos are available for downloads at the following portals (check out their
 
 
 
+### Creative Visuals
+
+* **1200x1200** - https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhovisuals-1200x1200
+* **1200x630** - https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhovisuals-1200x630
+* **1200x200** - https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhovisuals-1200x200
+* **1200x100** - https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhovisuals-1200x100
+* **310x150** - https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhovisuals-310x150
+* **493x58** - https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhovisuals-493x58
+* **493x312** - https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhovisuals-493x312
+* **630x1200** - https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhovisuals-630x1200
+* **7680x4320** - https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhovisuals-7680x4320
+
+
+
+### Knowledge Research
+
+* **1200x1200** - https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhoresearch-1200x1200
+* **1200x630** - https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhoresearch-1200x630
+* **1200x200** - https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhoresearch-1200x200
+* **1200x100** - https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhoresearch-1200x100
+* **310x150** - https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhoresearch-310x150
+* **493x58** - https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhoresearch-493x58
+* **493x312** - https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhoresearch-493x312
+* **630x1200** - https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhoresearch-630x1200
+* **7680x4320** - https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhoresearch-7680x4320
+
+
+
+### Soundtracks
+
+* **1200x1200** - https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhosoundtracks-1200x1200
+* **1200x630** - https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhosoundtracks-1200x630
+* **1200x200** - https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhosoundtracks-1200x200
+* **1200x100** - https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhosoundtracks-1200x100
+* **310x150** - https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhosoundtracks-310x150
+* **493x58** - https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhosoundtracks-493x58
+* **493x312** - https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhosoundtracks-493x312
+* **630x1200** - https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhosoundtracks-630x1200
+* **7680x4320** - https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhosoundtracks-7680x4320
+
+
+
+### Fabricable Hardware
+
+* **1200x1200** - https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhohardware-1200x1200
+* **1200x630** - https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhohardware-1200x630
+* **1200x200** - https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhohardware-1200x200
+* **1200x100** - https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhohardware-1200x100
+* **310x150** - https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhohardware-310x150
+* **493x58** - https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhohardware-493x58
+* **493x312** - https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhohardware-493x312
+* **630x1200** - https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhohardware-630x1200
+* **7680x4320** - https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhohardware-7680x4320
+
+
+
+### System Software
+
+* **1200x1200** - https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhosoftware-1200x1200
+* **1200x630** - https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhosoftware-1200x630
+* **1200x200** - https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhosoftware-1200x200
+* **1200x100** - https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhosoftware-1200x100
+* **310x150** - https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhosoftware-310x150
+* **493x58** - https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhosoftware-493x58
+* **493x312** - https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhosoftware-493x312
+* **630x1200** - https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhosoftware-630x1200
+* **7680x4320** - https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhosoftware-7680x4320
+
+
+
 
 ## Verifying Content Integrity
 
 [![banner](/.internals/trademarks/banner_1200x100.svg)](#)
 
-To secure the content from unauthorized modification by anyone down to `0-1` bit
-level, all documents and text are cryptographically signed using one or more
-cryptography tools such as but not limited to:
+To secure the content from unauthorized modification by anyone down to bit-level
+(`0|1`), they are cryptographically signed using one or more cryptography tools
+such as but not limited to:
 
 * [GnuPG](https://gnupg.org); AND/OR
 * [OpenSSL](https://www.openssl.org/).
 
-The public key and the associated certificate are attached. Only I keep and
-maintain the private keys. To verify the content's integrity:
+The public key and the associated certificate are attached. Only the main owner
+keeps and maintains the private keys. To verify the content's integrity:
 
 
 
@@ -263,11 +339,6 @@ $ openssl dgst -verify /path/to/pubkey.pem -signature /path/to/file.sig /path/to
 ## Artificial Intelligence (A.I.) Decrees
 
 [![banner](/.internals/trademarks/banner_1200x100.svg)](#)
-
-> [!CAUTION]
->
-> Note to Maintainers: Update each sub-section here matching the project’s
-> specifications from time-to-time especially between releases.
 
 This decree defines the project’s policy on the use of Artificial Intelligence.
 The following sections list data lifecycle activities and indicate whether A.I.
@@ -411,13 +482,64 @@ specifics), A.I. is not used for these tasks.
 
 
 
+## Maintainers' Notes
+
+[![banner](/.internals/trademarks/banner_1200x100.svg)](#)
+
+1. This is a **STRICTLY DECENTRALIZED SELF-SUFFICIENT git repository** so all
+   critical and maintenance data and info **MUST** inside this repository.
+   Anyone has this repository can operate without any restrictions or
+   limitations.
+2. **DO NOT use `git-lfs`** due to ambiguous and inconsistent storage allocation
+   policies from various git service providers.
+   * It will disrupt the work pipeline causing unwanted data losses downstream.
+   * Some actually monetarily charge you for storage space.
+3. For repository licenses, this repo uses the unified copyright accreditations
+   licensing approach. Hence, you should do the following:
+   * For `CREATORS.txt` or `CONTRIBUTORS.txt`:
+     1. `CREATORS.txt` are the legal entities that are responsible and own
+        the project copyright like authors, principal designers, principal
+        engineers, etc.
+     2. `CONTRIBUTORS.txt` are any legal entities that contributes to the
+        project but are not directly owning the project copyright like
+        pull-request contributors, curators, scribers, etc. Entities from
+        `CREATORS.txt` can be added here for an unified contributors list.
+     3. Each files have their internal guides as comments. Please comply
+        accordingly.
+   * `LICENSE.txt`
+     1. Update the collective aliases (e.g. `The ABC Project Team`) matching
+        the project correctly. The format is the same as the ones in
+        `CREATORS.txt` and `CONTRIBUTORS.txt`.
+     2. **ENSURES the entries' URLs are correctly linked to the upstream**.
+     3. There **MUST BE 2 EMPTY lines** context separator between the ownership
+        entities list and the first line of the license first clause.
+4. Please **ONLY USE AND SUPPORT** the following open source image editing
+   software for securing software supply chain from unwanted threats (e.g.
+   vendor-locked by any expensive or proprietary software):
+   * **GIMP (http://gimp.org)** - for rasterized graphics maintenances and
+     exporting non-vector graphic files (e.g. `.svg` to `.png` or `.jpg`).
+   * **Inkscape (https://inkscape.org)** - for vector graphics maintenances and
+     exporting `.svg` plain vector files.
+5. For the artificial intelligence (A.I.):
+   1. Use of A.I. **IS ALLOWED INTERNALLY** as long as:
+      * You as a legal entity (e.g. person|organization) **BEARS FULLY LEGAL
+        REPONSIBILITIES for ALL** your signed-off commitment.
+      * Non-legal entities (e.g. bot|AI account|shadow account|alternate account)
+        **ARE STRICTLY PROHIBITED FROM ANY SIGNED-OFF COMMITMENT**.
+      * Update the A.I Decree section accordingly on any use of any kind of A.I.
+   2. For any non-supervised or unatteneded automation; or "vibe" commitments,
+      to comply with the previous, please **REJECT ALL WITH PREJUDICE AND BLOCK
+      THE ENTITY WHEN NECESSARY**.
+
+
+
+
 ## License
 
 [![banner](/.internals/trademarks/banner_1200x100.svg)](#)
 
 This entire repository is licensed under
-[(Holloway) Chew, Kean Ho's Proprietary License](LICENSE.txt). Each icon is
-licensed independently in their respective download portal. To ensure better
+[(Holloway) Chew, Kean Ho's Proprietary License](LICENSE.txt). To ensure better
 understanding of this license, the following sub-sections will briefly describe
 how to deploy the content.
 
@@ -434,14 +556,15 @@ Unless otherwise specified, you **MUST** attribute back to the creator(s) as
 follows:
 
 ```
-Title: Logo Branding Guidelines | (Holloway) Chew, Kean Ho's Legal & Licenses
+Title: (Holloway) Chew, Kean Ho's Trademark Policies
 Creators: (Holloway) Chew, Kean Ho
+Packaged-By: (Holloway) Chew, Kean Ho
 Contact: hello@chewkeanho.com
-SKU: chewkeanho-legal-policies-trademark
+SKU: chewkeanho-legal-legal-policies-trademark
 UUID: 9B16AC6C-4A32-4C7C-8806-DF9213C34359
 License: (Holloway) Chew, Kean Ho's Proprietary License (https://doi.org/10.5281/zenodo.13767361)
-Made On: 2026-02-27
-Made From: Malaysia, South East Asia
+Repository Made On: 2026-02-27
+Repository Made From: Malaysia, South East Asia
 Procure: https://github.com/ChewKeanHo/legals-policies-trademark
 ```
 
